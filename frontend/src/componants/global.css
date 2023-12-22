@@ -1,0 +1,17 @@
+body {
+    font-size: 14px;
+  }
+
+  .custom-height {
+    height: 50vh; /* Adjust the vh value as needed */
+  }
+
+  .heading-text{
+    color: #6B3CC9;
+    font-weight: 700;
+  }
+  .gradient_background {
+    background: linear-gradient(90deg,#4DCA79,#1CBDDD);
+    height: 100vh;
+    width: 100vw;
+  }
